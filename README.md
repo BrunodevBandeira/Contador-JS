@@ -19,4 +19,10 @@ Projeto contagem regressiva feita com javascript, css, hmtl e Docker
 $ docker pull contador:latest
 ```
 
+- Em seguida use o comando
+- 
+```
+$ docker run -dit -p 8080:80 bandeiradocker/contador:latest
+```
+
 
