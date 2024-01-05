@@ -25,5 +25,7 @@ $ docker pull contador:latest
 ```
 $ docker run -dit -p 8080:80 bandeiradocker/contador:latest
 ```
-
+- Em seu navegador digite localhost:8080 para ver o projeto em execução. <h1 align="center">
+                                                                        <img align="center" alt="css" height="80px" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" />
+                                                                          </h1>
 
