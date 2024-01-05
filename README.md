@@ -1,5 +1,6 @@
 <h1 align="center">
-  Contador
+  Contador    <img align="center" alt="js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 </h1>
 
 
